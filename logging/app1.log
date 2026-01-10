@@ -1,0 +1,8 @@
+2025-12-13 12:29:51 - arithmetic app - DEBUG - Adding 10 and 15
+2025-12-13 12:29:51 - arithmetic app - DEBUG - Subtracting 5 from 20
+2025-12-13 12:31:00 - arithmetic app - DEBUG - Adding 10 and 15 to get 25
+2025-12-13 12:31:00 - arithmetic app - DEBUG - Subtracting 5 from 20 to get 15
+2025-12-13 12:34:40 - arithmetic app - DEBUG - Adding 10 and 15 to get 25
+2025-12-13 12:34:40 - arithmetic app - DEBUG - Subtracting 5 from 20 to get 15
+2025-12-13 12:34:40 - arithmetic app - ERROR - Attempted to divide by zero
+2025-12-13 12:34:40 - arithmetic app - DEBUG - Multiplying 3 and 7 to get 21

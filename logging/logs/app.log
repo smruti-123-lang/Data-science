@@ -1,0 +1,7 @@
+2026-01-08 09:51:05 root DEBUG This is a DEBUG message
+2026-01-08 09:51:05 root INFO This is an INFO message
+2026-01-08 09:51:05 root WARNING This is a WARNING message
+2026-01-08 09:51:05 root ERROR This is an ERROR message
+2026-01-08 09:51:05 root CRITICAL This is a CRITICAL message
+2026-01-08 09:51:05 root INFO Test module started
+2026-01-08 09:51:05 root DEBUG Adding 10 and 15
